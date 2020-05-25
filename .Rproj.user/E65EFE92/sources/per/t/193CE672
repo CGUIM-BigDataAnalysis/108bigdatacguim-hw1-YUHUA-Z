@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1590414191706.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2123396579",
+    "id" : "193CE672",
+    "lastKnownWriteTime" : 1590422890,
+    "last_content_update" : 1590422890196,
+    "path" : "~/GitHub/108bigdatacguim-hw1-YUHUA-Z/DataAnalysis.R",
+    "project_path" : "DataAnalysis.R",
+    "properties" : {
+        "cursorPosition" : "101,14",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
